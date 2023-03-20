@@ -1,16 +1,19 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": "417dea50-a958-4757-bfa2-dd0380b24745",
+      "fullName": "Parth",
+      "email": "psn@gmail.com",
+      "password": "Test@1234"
+    },
+    {
+      "id": "908d0a11-6eaa-4189-bc17-fb23c76cee41",
+      "fullName": "Richa Singh",
+      "email": "Richa@gmail.com",
+      "password": "Test@123"
     }
   ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
+  "tasks": [
+    
   ]
 }
